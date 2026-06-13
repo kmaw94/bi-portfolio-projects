@@ -328,6 +328,9 @@ node_modules/
 *.dsw
 *.dsp
 
+# Visual Studio Code Workspace
+*.code-workspace
+
 # Visual Studio 6 technical files
 *.ncb
 *.aps
